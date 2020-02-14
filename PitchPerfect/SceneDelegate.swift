@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PitchPerfect
 //
-//  Created by Aiman Nabeel on 25/01/2020.
+//  Created by Sumair Zamir on 25/01/2020.
 //  Copyright © 2020 Sumair Zamir. All rights reserved.
 //
 
